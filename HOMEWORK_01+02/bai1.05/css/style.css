@@ -1,0 +1,17 @@
+*Style Bai 3*/
+#bai3 h1 {
+    text-align: center;
+    color: darkgreen;
+}
+#bai3 strong {
+    text-decoration: underline;
+}
+#bai3 span {
+    color: red;
+}
+pre {
+    background-color: #ccc;
+    color: blue;
+    font-size: 15px;
+    margin-top: 15px;
+}
