@@ -1,0 +1,9 @@
+span{
+    color: red;
+}
+.form-group{
+    display: flex;
+}
+.myicon{
+    float: right;
+}
